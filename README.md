@@ -1,8 +1,11 @@
+<img src="robinfb.jpg" alt="robinXhmed" width="250" height="250">
+------•••••••••••••✨••••••••••••••------
+
 <h1 align="center">Hi 👋, I'm Robin-Xhmed</h1>
 <h3 align="center">A passionate frontend developer from bangladesh 🇧🇩</h3>
 
 - 🔭 I’m currently working on [Web Profile Robin](https://robinxhmed.github.io/)
-<img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
+
 - ✨ Facebook Info [ID: Zahir Ahmmed](www.facebook.com/robin.html.69)
 
 - 🤝 Other Project [Replit](https://replit.com/@robinXhmed)
