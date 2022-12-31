@@ -1,8 +1,8 @@
 <img src="robinfb.jpg" alt="robinXhmed" width="250" height="250">
   ------•••••••••••••✨••••••••••••••------
-
-<h1 align="center">Hi 👋, I'm Robin-Xhmed</h1>
-<h3 align="center">A passionate frontend developer from bangladesh 🇧🇩</h3>
+<h1 align="center">𝓗𝓮𝓵𝓵𝓸 👋 𝓜𝓮 𝓡𝓸𝓫𝓲𝓷 𝓐𝓱𝓶𝓮𝓭</h1>
+<h3 align="center">
+𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐝𝐞𝐯𝐞'𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐛𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 🇧🇩</h3>
 
 - 🔭 I’m currently working on [Web Profile Robin](https://robin-ahmed.github.io/)
 
