@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
+<img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220"><br>
 <h1 align="center">Hi 👋, I'm Robin-Xhmed</h1>
 <h3 align="center">A passionate frontend developer from bangladesh 🇧🇩</h3>
 
