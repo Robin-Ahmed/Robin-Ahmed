@@ -25,4 +25,11 @@
 <p><a href="https://ko-fi.com/robin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="robin" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinxhmed&show_icons=true&locale=en" alt="robinxhmed" /></p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas33n&layout=compact&langs_count=7&theme=tokyonight">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinxhmed&show_icons=true&locale=en" alt="robinxhmed" /></p>
+<div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tas33n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas33n&layout=compact&langs_count=7&theme=tokyonight">
+
+</div>
